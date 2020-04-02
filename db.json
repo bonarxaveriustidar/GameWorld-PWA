@@ -1,5 +1,4 @@
-{
-"artikel": [
+[{
   "id": 1,
   "judul_berita": "Mr",
   "kategori": "Khaki",
@@ -119,5 +118,4 @@
   "kategori": "Indigo",
   "isi_berita": "amet turpis elementum ligula vehicula consequat morbi a ipsum integer",
   "gambar": "http://dummyimage.com/128x239.bmp/ff4444/ffffff"
-]
-}
+}]
