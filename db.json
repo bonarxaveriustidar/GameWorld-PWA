@@ -1,121 +1,24 @@
-[{
-  "id": 1,
-  "judul_berita": "Mr",
-  "kategori": "Khaki",
-  "isi_berita": "rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet",
-  "gambar": "http://dummyimage.com/152x178.jpg/ff4444/ffffff"
-}, {
-  "id": 2,
-  "judul_berita": "Rev",
-  "kategori": "Aquamarine",
-  "isi_berita": "auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis",
-  "gambar": "http://dummyimage.com/146x138.bmp/ff4444/ffffff"
-}, {
-  "id": 3,
-  "judul_berita": "Mr",
-  "kategori": "Yellow",
-  "isi_berita": "pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue",
-  "gambar": "http://dummyimage.com/172x207.jpg/cc0000/ffffff"
-}, {
-  "id": 4,
-  "judul_berita": "Honorable",
-  "kategori": "Green",
-  "isi_berita": "leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis",
-  "gambar": "http://dummyimage.com/106x161.bmp/5fa2dd/ffffff"
-}, {
-  "id": 5,
-  "judul_berita": "Mr",
-  "kategori": "Mauv",
-  "isi_berita": "rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus",
-  "gambar": "http://dummyimage.com/176x195.png/ff4444/ffffff"
-}, {
-  "id": 6,
-  "judul_berita": "Honorable",
-  "kategori": "Crimson",
-  "isi_berita": "volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc",
-  "gambar": "http://dummyimage.com/139x219.jpg/cc0000/ffffff"
-}, {
-  "id": 7,
-  "judul_berita": "Honorable",
-  "kategori": "Mauv",
-  "isi_berita": "quam a odio in hac habitasse platea dictumst maecenas ut massa quis",
-  "gambar": "http://dummyimage.com/232x126.png/dddddd/000000"
-}, {
-  "id": 8,
-  "judul_berita": "Rev",
-  "kategori": "Teal",
-  "isi_berita": "porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh",
-  "gambar": "http://dummyimage.com/100x220.jpg/cc0000/ffffff"
-}, {
-  "id": 9,
-  "judul_berita": "Mr",
-  "kategori": "Red",
-  "isi_berita": "in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan",
-  "gambar": "http://dummyimage.com/218x248.png/5fa2dd/ffffff"
-}, {
-  "id": 10,
-  "judul_berita": "Rev",
-  "kategori": "Fuscia",
-  "isi_berita": "quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla",
-  "gambar": "http://dummyimage.com/183x190.png/dddddd/000000"
-}, {
-  "id": 11,
-  "judul_berita": "Mrs",
-  "kategori": "Turquoise",
-  "isi_berita": "vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes",
-  "gambar": "http://dummyimage.com/140x233.bmp/cc0000/ffffff"
-}, {
-  "id": 12,
-  "judul_berita": "Honorable",
-  "kategori": "Indigo",
-  "isi_berita": "mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam",
-  "gambar": "http://dummyimage.com/235x188.png/cc0000/ffffff"
-}, {
-  "id": 13,
-  "judul_berita": "Mrs",
-  "kategori": "Maroon",
-  "isi_berita": "bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis",
-  "gambar": "http://dummyimage.com/153x169.png/ff4444/ffffff"
-}, {
-  "id": 14,
-  "judul_berita": "Rev",
-  "kategori": "Yellow",
-  "isi_berita": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis",
-  "gambar": "http://dummyimage.com/139x133.png/5fa2dd/ffffff"
-}, {
-  "id": 15,
-  "judul_berita": "Rev",
-  "kategori": "Indigo",
-  "isi_berita": "at feugiat non pretium quis lectus suspendisse potenti in eleifend quam",
-  "gambar": "http://dummyimage.com/199x233.png/5fa2dd/ffffff"
-}, {
-  "id": 16,
-  "judul_berita": "Dr",
-  "kategori": "Fuscia",
-  "isi_berita": "pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in",
-  "gambar": "http://dummyimage.com/136x174.png/cc0000/ffffff"
-}, {
-  "id": 17,
-  "judul_berita": "Ms",
-  "kategori": "Fuscia",
-  "isi_berita": "accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi",
-  "gambar": "http://dummyimage.com/133x233.png/dddddd/000000"
-}, {
-  "id": 18,
-  "judul_berita": "Rev",
-  "kategori": "Yellow",
-  "isi_berita": "mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia",
-  "gambar": "http://dummyimage.com/232x180.bmp/ff4444/ffffff"
-}, {
-  "id": 19,
-  "judul_berita": "Dr",
-  "kategori": "Orange",
-  "isi_berita": "bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus",
-  "gambar": "http://dummyimage.com/249x202.png/cc0000/ffffff"
-}, {
-  "id": 20,
-  "judul_berita": "Mrs",
-  "kategori": "Indigo",
-  "isi_berita": "amet turpis elementum ligula vehicula consequat morbi a ipsum integer",
-  "gambar": "http://dummyimage.com/128x239.bmp/ff4444/ffffff"
-}]
+{
+  "artikel": [
+{"id":1,"judul_berita":"Mrs","kategori":"Mauv","isi_berita":"at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque","gambar":"http://dummyimage.com/214x240.jpg/5fa2dd/ffffff"},
+{"id":2,"judul_berita":"Mrs","kategori":"Violet","isi_berita":"at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum","gambar":"http://dummyimage.com/103x195.jpg/5fa2dd/ffffff"},
+{"id":3,"judul_berita":"Ms","kategori":"Khaki","isi_berita":"ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer","gambar":"http://dummyimage.com/114x222.jpg/5fa2dd/ffffff"},
+{"id":4,"judul_berita":"Ms","kategori":"Fuscia","isi_berita":"aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio","gambar":"http://dummyimage.com/157x210.jpg/5fa2dd/ffffff"},
+{"id":5,"judul_berita":"Mrs","kategori":"Indigo","isi_berita":"curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem","gambar":"http://dummyimage.com/201x198.bmp/ff4444/ffffff"},
+{"id":6,"judul_berita":"Rev","kategori":"Puce","isi_berita":"suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus","gambar":"http://dummyimage.com/172x145.png/ff4444/ffffff"},
+{"id":7,"judul_berita":"Honorable","kategori":"Violet","isi_berita":"semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis","gambar":"http://dummyimage.com/144x220.png/ff4444/ffffff"},
+{"id":8,"judul_berita":"Mrs","kategori":"Puce","isi_berita":"tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum","gambar":"http://dummyimage.com/221x115.png/dddddd/000000"},
+{"id":9,"judul_berita":"Mr","kategori":"Khaki","isi_berita":"fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede","gambar":"http://dummyimage.com/181x180.bmp/5fa2dd/ffffff"},
+{"id":10,"judul_berita":"Mrs","kategori":"Violet","isi_berita":"nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede","gambar":"http://dummyimage.com/156x181.jpg/dddddd/000000"},
+{"id":11,"judul_berita":"Rev","kategori":"Red","isi_berita":"nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur","gambar":"http://dummyimage.com/232x247.bmp/ff4444/ffffff"},
+{"id":12,"judul_berita":"Ms","kategori":"Green","isi_berita":"vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra","gambar":"http://dummyimage.com/227x110.jpg/cc0000/ffffff"},
+{"id":13,"judul_berita":"Dr","kategori":"Crimson","isi_berita":"augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet","gambar":"http://dummyimage.com/147x226.jpg/cc0000/ffffff"},
+{"id":14,"judul_berita":"Dr","kategori":"Maroon","isi_berita":"magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient","gambar":"http://dummyimage.com/112x145.jpg/ff4444/ffffff"},
+{"id":15,"judul_berita":"Ms","kategori":"Orange","isi_berita":"dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis","gambar":"http://dummyimage.com/242x109.jpg/ff4444/ffffff"},
+{"id":16,"judul_berita":"Rev","kategori":"Indigo","isi_berita":"tellus nisi eu orci mauris lacinia sapien quis libero nullam","gambar":"http://dummyimage.com/131x173.png/ff4444/ffffff"},
+{"id":17,"judul_berita":"Ms","kategori":"Mauv","isi_berita":"magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus","gambar":"http://dummyimage.com/192x224.png/ff4444/ffffff"},
+{"id":18,"judul_berita":"Mrs","kategori":"Violet","isi_berita":"enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in","gambar":"http://dummyimage.com/178x158.jpg/5fa2dd/ffffff"},
+{"id":19,"judul_berita":"Mrs","kategori":"Crimson","isi_berita":"accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in","gambar":"http://dummyimage.com/132x168.jpg/cc0000/ffffff"},
+{"id":20,"judul_berita":"Mrs","kategori":"Goldenrod","isi_berita":"odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a","gambar":"http://dummyimage.com/167x112.jpg/cc0000/ffffff"}
+  ]
+}
